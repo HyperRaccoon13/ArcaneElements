@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "arc_elements:block/earthstone_ore_block" }
+  }
+}

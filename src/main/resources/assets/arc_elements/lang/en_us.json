@@ -1,0 +1,23 @@
+{
+  "block.arc_elements.firestone_ore_block": "Firestone Ore Block",
+  "block.arc_elements.airstone_ore_block": "Airstone Ore Block",
+  "block.arc_elements.earthstone_ore_block": "Earthstone Ore Block",
+  "block.arc_elements.waterstone_ore_block": "Waterstone Ore Block",
+
+  "block.arc_elements.deepslate_firestone_ore_block": "Deepslate Firestone Ore Block",
+  "block.arc_elements.deepslate_airstone_ore_block": "Deepslate Airstone Ore Block",
+  "block.arc_elements.deepslate_earthstone_ore_block": "Deepslate Earthstone Ore Block",
+  "block.arc_elements.deepslate_waterstone_ore_block": "Deepslate Waterstone Ore Block",
+
+
+
+  "item.arc_elements.firestone_pickaxe": "Firestone Pickaxe",
+  "item.arc_elements.airstone_pickaxe": "Airstone Pickaxe",
+  "item.arc_elements.earthstone_pickaxe": "Earthstone Pickaxe",
+  "item.arc_elements.waterstone_pickaxe": "Waterstone Pickaxe",
+
+  "item.arc_elements.tuning_fork": "Tuning Fork",
+
+  "itemGroup.arc_elements.arcane_elements":  "Arcane Elements"
+
+}

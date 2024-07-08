@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "arc_elements:block/deepslate_airstone_ore_block" }
+  }
+}

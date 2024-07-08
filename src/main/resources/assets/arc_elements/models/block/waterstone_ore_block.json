@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "arc_elements:block/waterstone_ore_block"
+  }
+}
