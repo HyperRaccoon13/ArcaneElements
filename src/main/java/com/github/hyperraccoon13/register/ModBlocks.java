@@ -7,21 +7,14 @@ import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
-import net.minecraft.util.Identifier;
-
-
-
 
 public class ModBlocks {
     public static final Block FIRESTONE_ORE_BLOCK = registerWithItem("firestone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
     public static final Block DEEPSLATE_FIRESTONE_ORE_BLOCK = registerWithItem("deepslate_firestone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
-
     public static final Block AIRSTONE_ORE_BLOCK = registerWithItem("airstone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
     public static final Block DEEPSLATE_AIRSTONE_ORE_BLOCK = registerWithItem("deepslate_airstone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
-
     public static final Block EARTHSTONE_ORE_BLOCK = registerWithItem("earthstone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
     public static final Block DEEPSLATE_EARTHSTONE_ORE_BLOCK = registerWithItem("deepslate_earthstone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
-
     public static final Block WATERSTONE_ORE_BLOCK = registerWithItem("waterstone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
     public static final Block DEEPSLATE_WATERSTONE_ORE_BLOCK = registerWithItem("deepslate_waterstone_ore_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(4, 6)));
 

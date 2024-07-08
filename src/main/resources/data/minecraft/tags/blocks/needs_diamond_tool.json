@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "arc_elements:firestone_ore_block",
+    "arc_elements:airstone_ore_block",
+    "arc_elements:earthstone_ore_block",
+    "arc_elements:waterstone_ore_block",
+
+    "arc_elements:deepslate_firestone_ore_block",
+    "arc_elements:deepslate_airstone_ore_block",
+    "arc_elements:deepslate_earthstone_ore_block",
+    "arc_elements:deepslate_waterstone_ore_block"
+  ]
+}
